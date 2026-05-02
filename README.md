@@ -1,5 +1,9 @@
 # EmoCK
-Facial expression recognition datasets with emotion categories
+Facial expression recognition datasets with emotion categories 
+
+## 🏆 Leaderboard
+
+👉 [Click here to view the live leaderboard](https://tasneem-mselim.github.io/EmoCK/)
 
 # 🧠 EmoCK / CK+ Facial Expression Recognition
 
