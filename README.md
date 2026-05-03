@@ -30,9 +30,6 @@ train/ (labeled images), test/ (unlabeled images + predictions.csv)
 - Public: train
 - Private: test labels
 
-## 📊 Leaderboard
-Ranked by test performance.
-
 ## 📝 How to Submit Your Results
 (Use your provided steps exactly here)
 
